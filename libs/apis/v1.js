@@ -1,6 +1,6 @@
 module.exports = {
   // fetching status of the registry server
-  status: '/v1/_ping', 
+  status: '/v1/_ping',
   // alias for fetcing status
   ping: '/v1/_ping',
   searchImage: {
